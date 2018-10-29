@@ -27,7 +27,7 @@ class Stripes extends Component {
         delay: 400
       }
     ]
-  }
+  };
 
 
   showStripes = () => {
