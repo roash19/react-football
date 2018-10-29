@@ -234,6 +234,7 @@ footer .footer_discl {
     flex-wrap: wrap;
     display: flex;
     margin-top: 60px;
+    margin-bottom: 35px;
 }
 
 .home_matches_wrapper .home_matches .item {
